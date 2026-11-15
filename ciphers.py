@@ -1,5 +1,5 @@
 """
-CSI2108 Portfolio Part 1
+Portfolio
 PRNG + Stream Cipher (Geffe-style nonlinear LFSR combiner)
 Block cipher (custom 9-byte SPN, 4 rounds, CTR mode)
 """
