@@ -1,6 +1,6 @@
 # Python-Based Symmetric Encryption System
 
-##1. Project Overview
+## 1. Project Overview
 
 This project implements and demonstrates symmetric encryption techniques using Python.
 
