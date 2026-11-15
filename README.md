@@ -8,7 +8,7 @@ Developed as part of the Cryptographic Concepts coursework, it explores two encr
 
 The project demonstrates encryption, decryption, keystream generation, key scheduling, confusion, diffusion, and statistical analysis through practical Python implementation.
 
-2. Project Objectives
+## 2. Project Objectives
 
 - Understand the principles of symmetric cryptography.
 - Implement Linear Feedback Shift Registers (LFSRs).
@@ -18,7 +18,7 @@ The project demonstrates encryption, decryption, keystream generation, key sched
 - Implement Counter (CTR) mode.
 - Analyse cipher behaviour through statistical testing.
 
-3. Implemented Features
+## 3. Implemented Features
 
  # A. PRNG and Stream Cipher
 
@@ -53,7 +53,7 @@ The project demonstrates encryption, decryption, keystream generation, key sched
 - Round-adjustment testing from 1 to 6 rounds.
 - Comparison of ciphertext bit changes.
 
-4. Technologies Used
+## 4. Technologies Used
 
 - Python 3
 - Python Random Module
@@ -62,7 +62,7 @@ The project demonstrates encryption, decryption, keystream generation, key sched
 - Binary and Hexadecimal Representations
 - Symmetric Cryptography Concepts
 
-5. Project Structure
+## 5. Project Structure
 
 ```
 python-symmetric-encryption/
@@ -72,7 +72,7 @@ python-symmetric-encryption/
 └── ciphers.py
 ```
 
-6. How to Run the Project
+## 6. How to Run the Project
 
  # Requirements
 - Python 3.x
@@ -100,7 +100,7 @@ python3 ciphers.py
 
 The program automatically executes the demonstrations and displays the encryption, decryption and statistical testing results.
 
-7. Experimental Results
+## 7. Experimental Results
 
 The implementation demonstrates:
 
@@ -112,7 +112,7 @@ The implementation demonstrates:
 
 These results demonstrate the behaviour of the implemented algorithms under the selected test conditions; they do not establish cryptographic security.
 
-8. Learning Outcomes
+## 8. Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -123,7 +123,7 @@ Through this project, I gained practical experience in:
 - Applying confusion and diffusion principles.
 - Evaluating encryption behaviour through statistical experiments.
 
-9. Limitations and Disclaimer
+## 9. Limitations and Disclaimer
 
 This project is developed for educational purposes.
 
